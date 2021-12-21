@@ -1,0 +1,6 @@
+print("--------")
+sayi = int(input("Sayi gir: "))
+r = int(input("yaricap gir: "))
+pi = int(2)
+print("Alan ",sayi*r*pi)
+print("--------")
